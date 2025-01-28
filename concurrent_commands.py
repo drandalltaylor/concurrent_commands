@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 
-"""
-(supplemental type cert IF demo/test utility) 
-author randy.taylor@intelsat.com
-Copyright (c) 2019 Gogo Commercial Aviation - All Rights Reserved
+""" 
+author: drandalltaylor@gmail.com
 """
 
 # This module creates an operating system process for each command provided
